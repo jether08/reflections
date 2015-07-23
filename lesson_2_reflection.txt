@@ -2,3 +2,6 @@ you should initialize
 the repository because
 i dont know the answer
 hehe 
+staging area is a place to put the current files in temporary mode
+it give offer to control the flow to the working and repo 
+directory
